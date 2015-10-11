@@ -1,0 +1,21 @@
+#character {
+	height: 100px;
+	width: 100px;
+	left: 0px;
+	top: 480px;
+	bottom: 90px;
+	z-index: 1000;
+	position: absolute;
+
+}
+
+#obstacle1 {
+	height: 30px;
+	width: 160px;
+	left: 448px;
+	top: 455px;
+	bottom: 90px;
+	z-index: 1000;
+	background-color: yellow;
+	position: absolute;
+}
